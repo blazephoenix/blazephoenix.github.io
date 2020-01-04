@@ -26,6 +26,7 @@ const Bio = () => {
           author
           social {
             twitter
+            dev
           }
         }
       }
@@ -54,11 +55,15 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Written by <strong>{author}</strong> who lives and works in Mumbai
+        building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
+        </a>
+        {` `} and {` `}
+        <a href={`https://dev.to/${social.dev}`}>
+           the Dev Community
         </a>
       </p>
     </div>
