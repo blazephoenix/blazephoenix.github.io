@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-blog",
+  "version": "1.0.0",
+  "description": "Gatsby blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blazephoenix/blazephoenix.github.io.git"
+  },
+  "author": "Tanmay Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blazephoenix/blazephoenix.github.io/issues"
+  },
+  "homepage": "https://github.com/Blazephoenix/blazephoenix.github.io#readme"
+}
