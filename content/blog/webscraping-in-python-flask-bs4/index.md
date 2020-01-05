@@ -1,6 +1,7 @@
 ---
-title: Webscraping in Python with Flask and BeautifulSoup 4
-date: "2015-03-23T23:46:37.121Z"
+title: Webscraping in Python Flask and BeautifulSoup 4
+date: "2019-02-05"
+description: A lot of websites that aggregate data from other websites on the internet. Some examples could be websites that give you the best deals on the same product after comparing across multiple platforms (Amazon, Flipkart, Ebay, etc.)
 ---
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/vlb3nw2civ5iyd3ats4w.jpg)
