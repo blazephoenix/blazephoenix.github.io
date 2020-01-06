@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Lazy Dev`,
+    title: `Blaze codes`,
     author: `Tanmay Naik (Blaze)`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `My own sweet spot on the internet`,
+    siteUrl: `https://blazephoenix.github.io/blog`,
     social: {
       twitter: `blazephoenix2`,
       dev: `blazephoenix`
@@ -63,11 +63,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Blaze codes`,
+        short_name: `Blazecodes`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#e53939`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },

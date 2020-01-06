@@ -1,9 +1,30 @@
 pre{
     background-color: #191919;
     color: whitesmoke;
-    padding-left: 1em;
+    padding: 0 1em;
+    overflow-x: scroll;
 }
 
 a{
     color: #e53939;
 }
+
+/* width */
+::-webkit-scrollbar {
+    height: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #e53939;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background:#bb2323;
+  }
