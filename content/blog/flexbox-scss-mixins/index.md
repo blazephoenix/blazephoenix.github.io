@@ -2,6 +2,7 @@
 title: Using Sass mixins for Flexbox
 date: "2019-10-03"
 description: Making flexbox CSS easier with SASS mixins.
+tags: ["web development"]
 ---
 ![CSS and HTML](https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 

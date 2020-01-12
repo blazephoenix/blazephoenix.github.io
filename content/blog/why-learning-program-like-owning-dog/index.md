@@ -1,6 +1,7 @@
 ---
 title: Why learning to program is like owning a dog (in some ways)
 date: "2019-12-06"
+tags: ["life","programming"]
 ---
 
 So I just recently got a White German Shepherd pup, and within a few days of being with him, I've come to realize that owning a dog is not an easy thing. But then, neither is programming. So here are some parallels I drew from that. Just a fun post :)

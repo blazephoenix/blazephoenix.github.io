@@ -1,6 +1,7 @@
 ---
 title: Consuming an API in Svelte
 date: "2019-12-20"
+tags: ["programming","web development"]
 ---
 I'd been figuring out Svelte since a week now and saying that I've fallen in love with it would be an understatement. Everything is so much faster to do and easier to understand that you'll probably see me becoming an unofficial evangelist for it. To be honest, React was difficult for me to grasp and it took me atleast a month of trying it out on and off before I was comfortable with it. It was only after the introduction of hooks that I was able to use it better. With Svelte though, here I am writing an article about it after fiddling with it for just over a week!
 
