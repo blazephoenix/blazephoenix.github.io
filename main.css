@@ -152,6 +152,19 @@ html, body, .page {
     -o-transition: all 250ms ease-out;
   }
   
+  .work-hint a{
+    font-size: 13px;
+    color: black;
+    transition: all 250ms ease-out;
+    -webkit-transition: all 250ms ease-out;
+    -moz-transition: all 250ms ease-out;
+    -o-transition: all 250ms ease-out;
+  }
+
+  .hint a:hover{
+    color: #FFF;
+  }
+
   .hint a:hover {
     color: #FFF;
   }
